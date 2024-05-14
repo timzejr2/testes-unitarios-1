@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\calculadora-para-teste.props" />
+</Project>
